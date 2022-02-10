@@ -3,7 +3,6 @@
 - Sou Técnico em Redes de Computadores e Futuro Engenheiro da Computação, e um aspirante a desenvolvedor full-stack 👨‍💻❤
 - Estou me encontrando profissionalmente com JavaScript 🔗
 - Pronomes Ele/Dele 🆗
-- Curiosidade sobre mim: Pode me chamar de "Contonho", é o apelido que meus amigos me deram juntando meus dois primeiros nomes
 
 <div align="center">
   <a href="https://github.com/fcooantoniops">
