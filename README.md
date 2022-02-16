@@ -1,8 +1,6 @@
 ### Olá! Sou Francisco Antonio! :D
 
-- Sou Técnico em Redes de Computadores e Futuro Engenheiro da Computação, e um aspirante a desenvolvedor full-stack 👨‍💻❤
-- Estou me encontrando profissionalmente com JavaScript 🔗
-- Pronomes Ele/Dele 🆗
+- Técnico em Redes de Computadores | Futuro Engenheiro da Computação | Aspirante a desenvolvedor full-stack 👨‍💻❤
 
 <div align="center">
   <a href="https://github.com/fcooantoniops">
